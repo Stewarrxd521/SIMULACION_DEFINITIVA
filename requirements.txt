@@ -1,0 +1,6 @@
+requests
+pandas
+numpy
+aiohttp
+websockets
+python-binance
